@@ -1,0 +1,1 @@
+/home/w00tz/.vimrc
